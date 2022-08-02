@@ -1,21 +1,22 @@
 body{
-    background-color: lightcoral;
+    background-color: #ebcacaff;
 }
 h1{
     text-align: center;
     font-size: 50px;
+    color : #AD2D18;
 }
 p{
     font-size: 20px;
-    color: green;
+    color:  #c53e77ff;
     font-family: Verdana;
 }
 h3{
     text-align: center;
     font-size: 35px;
-    color: blue;
+    color: #961D96;
 }
 h1,h3{
-    background-color: cornsilk;
+    background-color: #eba7a7ff;
     font-family: Verdana;
 }
