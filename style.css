@@ -15,8 +15,22 @@ h3{
     text-align: center;
     font-size: 35px;
     color: #961D96;
+    border: 5px solid red;
+    padding: 5px;
+    margin: 5px;
 }
+
 h1,h3{
     background-color: #eba7a7ff;
     font-family: Verdana;
+}
+
+#cabeçalho{
+   width: 100%;
+   height: 200px;
+}
+#primeiraImg{
+    width: 50%;
+    margin-left: 330px;
+    border: 10px solid red;
 }
