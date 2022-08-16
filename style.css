@@ -25,6 +25,12 @@ h1,h3{
     font-family: Verdana;
 }
 
+h4{
+    font-size: 35px;
+    color: #961D96;
+    font-family: Verdana;
+}
+
 #cabeçalho{
    width: 100%;
    height: 200px;
@@ -33,4 +39,17 @@ h1,h3{
     width: 50%;
     margin-left: 330px;
     border: 10px solid red;
+}
+ul{
+    color:  #c53e77ff;
+    font-family: cursive;
+    font-size: 25px;
+}
+li::marker{
+    font-size: 20px;
+    color: #961D96;
+    content: "❤️";
+}
+.encerrar{
+    background-color: #eba7a7ff;
 }
