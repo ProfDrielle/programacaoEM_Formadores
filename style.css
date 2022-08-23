@@ -44,6 +44,7 @@ ul{
     color:  #c53e77ff;
     font-family: cursive;
     font-size: 25px;
+    display: inline-block;
 }
 li::marker{
     font-size: 20px;
@@ -52,4 +53,9 @@ li::marker{
 }
 .encerrar{
     background-color: #eba7a7ff;
+}
+.ImgTag{
+    width: 60%;
+    vertical-align: text-bottom;
+    margin-left: 120px;
 }
